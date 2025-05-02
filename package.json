@@ -1,0 +1,28 @@
+{
+  "name": "ai-trainer",
+  "version": "1.0.0",
+  "description": "training project for AI use for QA purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drobertus/ai-trainer.git"
+  },
+  "keywords": [
+    "AI",
+    "QA",
+    "RAG"
+  ],
+  "author": "David Robertus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drobertus/ai-trainer/issues"
+  },
+  "homepage": "https://github.com/drobertus/ai-trainer#readme",
+  "dependencies": {
+    "libsql": "^0.5.8",
+    "sqlite3": "^5.1.7"
+  }
+}
